@@ -15,7 +15,9 @@ hs_err_pid*
 target
 target/*
 
-# Other files
+# Other files & folders
+.settings
+.mvn
 .classpath
 mvnw
 mvnw.cmd
